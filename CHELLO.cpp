@@ -7,7 +7,7 @@ using namespace std;
 
 void solve()
 {
-    cout << "Hello PTIT from vuna";
+    cout << "Hello PTIT.";
 }
 
 int main()
